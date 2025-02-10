@@ -1,4 +1,4 @@
-Hi there! 👋
+# Hi there! 👋
 
 ![GitHub Followers](https://img.shields.io/github/followers/sammelaar?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/sammelaar?style=social)
