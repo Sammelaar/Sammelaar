@@ -41,7 +41,7 @@ Whether you're a fellow tech enthusiast, a developer, or just curious about the 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/samvandenbiggelaar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=web)](https://blogg.biggelaar.it)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=web)](https://blog.biggelaar.it)
 
 ---
 
