@@ -30,7 +30,7 @@ This repository is my personal playground for Docker experiments! Here, I upload
 
 Feel free to explore, give feedback, or use these images for your own testing! 🚀
 
-### 🚀 [BiggBlogg](https://github.com/sammelaar/biggblog)
+### 🚀 [BiggBlog](https://github.com/sammelaar/biggblog)
 This blog is a personal space where I document my tech journey, sharing insights, discoveries, and lessons learned along the way. 
 Every month, I explore a new topic in IT, coding, and emerging tech trends, breaking it down into clear, digestible posts—no jargon, just genuine insights.
 
