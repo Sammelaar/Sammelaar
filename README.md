@@ -35,7 +35,7 @@ Every month, I explore a new topic in IT, coding, and emerging tech trends, brea
 
 Whether you're a fellow tech enthusiast, a developer, or just curious about the latest innovations, grab a coffee and join me on this learning adventure! ☕
 
-**🔗 Check out the latest posts here: blog.biggelaar.it**
+**🔗 Check out the latest posts here: blog.innocloud.io**
 
 ## 🤝 Connect with Me
 
