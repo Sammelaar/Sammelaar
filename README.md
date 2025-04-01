@@ -9,7 +9,7 @@ I'm Sam, a passionate project manager who loves building cool projects and explo
 
 - 👀 I’m interested in IT and build cool things for my HomeLab.
 - 🌱 I’m currently learning how to work with Docker, Proxmox and other tech solutions to build my own HomeLab.
-- 📫 How to reach me: [sam@biggelaar.it](mailto:sam@biggelaar.it)
+- 📫 How to reach me: [sam@innocloud.io](mailto:sam@innocloud.io)
 
 ## 🛠️ Skills
 
